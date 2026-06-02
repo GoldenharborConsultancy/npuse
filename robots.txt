@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goldenharborconsultancy.github.io/npuse/sitemap.xml
